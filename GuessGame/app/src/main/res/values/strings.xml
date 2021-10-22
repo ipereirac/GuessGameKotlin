@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessGame</string>
+    <string name="guess_must_be_1_to_25">Guess must be 1 to 25</string>
+</resources>
